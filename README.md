@@ -1,16 +1,13 @@
-## Hi there 👋
+##About Me
 
-<!--
-**Avdhoot-W/Avdhoot-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 3rd Year Computer Engineering Student @ AVCOE
+   
+- 💻 Skilled in Java, Python, SQL, and MERN Stack
+ 
+- 🌱 Currently exploring AI, Machine Learning & Data Analytics
+  
+- 🚀 Passionate about building real-world projects and learning new technologies
+  
+- 📚 Preparing for placements with focus on Java, DBMS, OS & Aptitude
+  
+- 🤝 Open to collaborations on AI/ML and Web Development projects
