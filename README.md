@@ -46,6 +46,6 @@ An e-commerce web app for product listing and shopping cart management.
 
 ## 🤝 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/avdhoot-wakale)  
+[![LinkedIn](www.linkedin.com/in/avdhoot-wakale-017963299)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Avdhoot-W)  
 [![Email](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:avdhootwakale004@gmail.com)  
