@@ -43,9 +43,9 @@ An e-commerce web app for product listing and shopping cart management.
 ![GitHub Streak](https://streak-stats.demolab.com?user=Avdhoot-W&theme=tokyonight)  
 
 ---
-
 ## 🤝 Connect with Me  
 
-[![LinkedIn]([www.linkedin.com/in/avdhoot-wakale-017963299](https://www.linkedin.com/in/avdhoot-wakale-017963299/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avdhoot-wakale-017963299/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Avdhoot-W)  
 [![Email](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:avdhootwakale004@gmail.com)  
+
